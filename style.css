@@ -1,0 +1,44 @@
+.container
+{
+  text-align: center;
+  margin: auto;
+  width: 80%;
+}
+
+.dice
+{
+  text-align: center;
+  display: inline-block;
+}
+
+body
+{
+  background-color: grey;
+}
+
+h1
+{
+  font-size: 5rem;
+  font-family: cursive;
+  color: white;
+}
+
+p
+{
+  font-size: 2rem;
+  font-family: cursive;
+  color: white;
+}
+
+img
+{
+  width: 80%
+}
+
+footer
+{
+  color: #FFFFFF;
+  text-align: center;
+  font-family: cursive;
+  margin: auto;
+}
